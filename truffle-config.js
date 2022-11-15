@@ -50,10 +50,6 @@ module.exports = {
     //   network_id: '*', // Any network (default: none)
     // },
 
-    develop: {
-      port: 8545,
-    },
-
     goerli: {
       provider: function () {
         return new HDWalletProvider(mnemonic, infuraKey)
