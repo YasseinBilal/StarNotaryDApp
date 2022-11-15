@@ -1,0 +1,13 @@
+{
+  "name": "nd1309-p2-Decentralized-Star-Notary-Service-Starter-Code-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.0-web3one.5"
+  },
+  "devDependencies": {
+    "any-promise": "^1.3.0",
+    "bindings": "^1.5.0"
+  }
+}
