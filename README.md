@@ -25,3 +25,7 @@ v5.5.24
 ```
 0x4C10773c9683b6189A53c21155cbf9d991bCf1e6
 ```
+
+### Notes
+The app is deployed to `Goerli` public network since `Rinkeby` is deprecated
+
